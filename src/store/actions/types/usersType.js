@@ -1,0 +1,5 @@
+export const usersType = {
+  GET_USERS_DETAIL: "GET_USERS_DETAIL",
+  GET_USER_DETAIL: "GET_USER_DETAIL",
+  REMOVE_USER: "REMOVE_USER",
+};
